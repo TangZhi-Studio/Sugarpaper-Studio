@@ -11,6 +11,7 @@
 编译好的 Windows 程序包，请到右侧 Releases 页面下载。
 👉 [下载旧版本 Release](https://github.com/TangZhi-Studio/Sugarpaper-Studio/releases/tag/v1.0.0)
 或 [下载最新 Release](https://github.com/TangZhi-Studio/Sugarpaper-Studio/releases/latest)
+推荐 [下载最终版本 Release](https://github.com/TangZhi-Studio/Sugarpaper-Studio/releases/tag/v1.2.0)
 
 💡 开发方向
 - 自制工具、小脚本
