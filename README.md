@@ -5,10 +5,11 @@
 
 ## 📦 项目列表
 - **Pomodoro_Tool 番茄钟工具**
-  PyQt5桌面倒计时工具，深色界面，支持自定义工作/休息时长
+  基于PyQt5开发的桌面倒计时工具，深色界面，支持自定义工作、休息时长，计时结束弹窗提醒，由糖纸工作室原创
 
 ## 📥 可执行包下载
 编译好的 Windows 程序包，请到右侧 Releases 页面下载。
+👉 [下载 Release](https://github.com/TangZhi-Studio/Sugarpaper-Studio/releases/tag/v1.0.0)
 
 💡 开发方向
 - 自制工具、小脚本
