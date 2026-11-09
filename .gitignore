@@ -1,0 +1,14 @@
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 其他临时文件
+*.log
+.DS_Store
